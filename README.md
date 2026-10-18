@@ -40,7 +40,7 @@ defensive design work.
 - Produced a secure network redesign addressing the identified risks
 
 ## Documentation
-See [`docs/`](./docs) for the full written report and supporting screenshots.
+See [`docs/security_assessment.pdf`](./docs/security_assessment.pdf) for the full written report and supporting screenshots.
 
 ## Disclaimer
 Conducted entirely within an isolated, offline lab network for educational purposes.
